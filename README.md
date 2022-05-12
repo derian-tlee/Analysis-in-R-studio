@@ -8,4 +8,4 @@ https://www.himalayandatabase.com/
 
 https://www.kaggle.com/sakshigoyal7/credit-card-customers?select=BankChurners.csv
 
-https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-01-21
+
